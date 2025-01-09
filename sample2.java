@@ -3,11 +3,11 @@ public class Ex5 {
         Integer num1 = 1000;
         Integer num2 = 1000;
 
-        if (num1 == num2) {
-            System.out.println("num1 and num2 are equal using '==' operator.");
-        } else {
-            System.out.println("num1 and num2 are not equal using '==' operator.");
-        }
+        // if (num1 == num2) {
+        //     System.out.println("num1 and num2 are equal using '==' operator.");
+        // } else {
+        //     System.out.println("num1 and num2 are not equal using '==' operator.");
+        // }
 
         String text = "hello";
         String anotherText = new String("hello");
